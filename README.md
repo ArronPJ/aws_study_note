@@ -4,6 +4,4 @@
 
 ## Course List
 
-1. [AWS Lambda] (https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda/table-of-contents) [筆記] (https://github.com/ArronPJ/Alamofaws_study_noteire/blob/master/docs/aws-developer-introduction-aws-lambda.md)
-
-
+1. [AWS Lambda] (https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda/table-of-contents) [筆記] (https://github.com/ArronPJ/aws_study_note/blob/master/doc/aws-developer-introduction-aws-lambda.md)
