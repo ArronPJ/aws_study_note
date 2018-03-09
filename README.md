@@ -4,4 +4,4 @@
 
 ## Course List
 
-1. [AWS Lambda](https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda/table-of-contents) [Note](https://github.com/ArronPJ/aws_study_note/blob/master/doc/aws-developer-introduction-aws-lambda.md)
+1. PL課程：[AWS Lambda](https://app.pluralsight.com/library/courses/aws-developer-introduction-aws-lambda/table-of-contents), [筆記](https://github.com/ArronPJ/aws_study_note/blob/master/doc/aws-developer-introduction-aws-lambda.md)
